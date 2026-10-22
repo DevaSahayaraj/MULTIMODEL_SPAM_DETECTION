@@ -1,0 +1,330 @@
+[
+  {
+    "id": "naive_bayes",
+    "models": [
+      "naive_bayes"
+    ],
+    "type": "individual",
+    "method": "probability_average",
+    "threshold": 0.5
+  },
+  {
+    "id": "logistic_regression",
+    "models": [
+      "logistic_regression"
+    ],
+    "type": "individual",
+    "method": "probability_average",
+    "threshold": 0.5
+  },
+  {
+    "id": "linear_svm",
+    "models": [
+      "linear_svm"
+    ],
+    "type": "individual",
+    "method": "probability_average",
+    "threshold": 0.5
+  },
+  {
+    "id": "random_forest",
+    "models": [
+      "random_forest"
+    ],
+    "type": "individual",
+    "method": "probability_average",
+    "threshold": 0.5
+  },
+  {
+    "id": "xgboost",
+    "models": [
+      "xgboost"
+    ],
+    "type": "individual",
+    "method": "probability_average",
+    "threshold": 0.5
+  },
+  {
+    "id": "naive_bayes__logistic_regression",
+    "models": [
+      "naive_bayes",
+      "logistic_regression"
+    ],
+    "type": "hybrid",
+    "method": "probability_average",
+    "threshold": 0.5
+  },
+  {
+    "id": "naive_bayes__linear_svm",
+    "models": [
+      "naive_bayes",
+      "linear_svm"
+    ],
+    "type": "hybrid",
+    "method": "probability_average",
+    "threshold": 0.5
+  },
+  {
+    "id": "naive_bayes__random_forest",
+    "models": [
+      "naive_bayes",
+      "random_forest"
+    ],
+    "type": "hybrid",
+    "method": "probability_average",
+    "threshold": 0.5
+  },
+  {
+    "id": "naive_bayes__xgboost",
+    "models": [
+      "naive_bayes",
+      "xgboost"
+    ],
+    "type": "hybrid",
+    "method": "probability_average",
+    "threshold": 0.5
+  },
+  {
+    "id": "logistic_regression__linear_svm",
+    "models": [
+      "logistic_regression",
+      "linear_svm"
+    ],
+    "type": "hybrid",
+    "method": "probability_average",
+    "threshold": 0.5
+  },
+  {
+    "id": "logistic_regression__random_forest",
+    "models": [
+      "logistic_regression",
+      "random_forest"
+    ],
+    "type": "hybrid",
+    "method": "probability_average",
+    "threshold": 0.5
+  },
+  {
+    "id": "logistic_regression__xgboost",
+    "models": [
+      "logistic_regression",
+      "xgboost"
+    ],
+    "type": "hybrid",
+    "method": "probability_average",
+    "threshold": 0.5
+  },
+  {
+    "id": "linear_svm__random_forest",
+    "models": [
+      "linear_svm",
+      "random_forest"
+    ],
+    "type": "hybrid",
+    "method": "probability_average",
+    "threshold": 0.5
+  },
+  {
+    "id": "linear_svm__xgboost",
+    "models": [
+      "linear_svm",
+      "xgboost"
+    ],
+    "type": "hybrid",
+    "method": "probability_average",
+    "threshold": 0.5
+  },
+  {
+    "id": "random_forest__xgboost",
+    "models": [
+      "random_forest",
+      "xgboost"
+    ],
+    "type": "hybrid",
+    "method": "probability_average",
+    "threshold": 0.5
+  },
+  {
+    "id": "naive_bayes__logistic_regression__linear_svm",
+    "models": [
+      "naive_bayes",
+      "logistic_regression",
+      "linear_svm"
+    ],
+    "type": "hybrid",
+    "method": "probability_average",
+    "threshold": 0.5
+  },
+  {
+    "id": "naive_bayes__logistic_regression__random_forest",
+    "models": [
+      "naive_bayes",
+      "logistic_regression",
+      "random_forest"
+    ],
+    "type": "hybrid",
+    "method": "probability_average",
+    "threshold": 0.5
+  },
+  {
+    "id": "naive_bayes__logistic_regression__xgboost",
+    "models": [
+      "naive_bayes",
+      "logistic_regression",
+      "xgboost"
+    ],
+    "type": "hybrid",
+    "method": "probability_average",
+    "threshold": 0.5
+  },
+  {
+    "id": "naive_bayes__linear_svm__random_forest",
+    "models": [
+      "naive_bayes",
+      "linear_svm",
+      "random_forest"
+    ],
+    "type": "hybrid",
+    "method": "probability_average",
+    "threshold": 0.5
+  },
+  {
+    "id": "naive_bayes__linear_svm__xgboost",
+    "models": [
+      "naive_bayes",
+      "linear_svm",
+      "xgboost"
+    ],
+    "type": "hybrid",
+    "method": "probability_average",
+    "threshold": 0.5
+  },
+  {
+    "id": "naive_bayes__random_forest__xgboost",
+    "models": [
+      "naive_bayes",
+      "random_forest",
+      "xgboost"
+    ],
+    "type": "hybrid",
+    "method": "probability_average",
+    "threshold": 0.5
+  },
+  {
+    "id": "logistic_regression__linear_svm__random_forest",
+    "models": [
+      "logistic_regression",
+      "linear_svm",
+      "random_forest"
+    ],
+    "type": "hybrid",
+    "method": "probability_average",
+    "threshold": 0.5
+  },
+  {
+    "id": "logistic_regression__linear_svm__xgboost",
+    "models": [
+      "logistic_regression",
+      "linear_svm",
+      "xgboost"
+    ],
+    "type": "hybrid",
+    "method": "probability_average",
+    "threshold": 0.5
+  },
+  {
+    "id": "logistic_regression__random_forest__xgboost",
+    "models": [
+      "logistic_regression",
+      "random_forest",
+      "xgboost"
+    ],
+    "type": "hybrid",
+    "method": "probability_average",
+    "threshold": 0.5
+  },
+  {
+    "id": "linear_svm__random_forest__xgboost",
+    "models": [
+      "linear_svm",
+      "random_forest",
+      "xgboost"
+    ],
+    "type": "hybrid",
+    "method": "probability_average",
+    "threshold": 0.5
+  },
+  {
+    "id": "naive_bayes__logistic_regression__linear_svm__random_forest",
+    "models": [
+      "naive_bayes",
+      "logistic_regression",
+      "linear_svm",
+      "random_forest"
+    ],
+    "type": "hybrid",
+    "method": "probability_average",
+    "threshold": 0.5
+  },
+  {
+    "id": "naive_bayes__logistic_regression__linear_svm__xgboost",
+    "models": [
+      "naive_bayes",
+      "logistic_regression",
+      "linear_svm",
+      "xgboost"
+    ],
+    "type": "hybrid",
+    "method": "probability_average",
+    "threshold": 0.5
+  },
+  {
+    "id": "naive_bayes__logistic_regression__random_forest__xgboost",
+    "models": [
+      "naive_bayes",
+      "logistic_regression",
+      "random_forest",
+      "xgboost"
+    ],
+    "type": "hybrid",
+    "method": "probability_average",
+    "threshold": 0.5
+  },
+  {
+    "id": "naive_bayes__linear_svm__random_forest__xgboost",
+    "models": [
+      "naive_bayes",
+      "linear_svm",
+      "random_forest",
+      "xgboost"
+    ],
+    "type": "hybrid",
+    "method": "probability_average",
+    "threshold": 0.5
+  },
+  {
+    "id": "logistic_regression__linear_svm__random_forest__xgboost",
+    "models": [
+      "logistic_regression",
+      "linear_svm",
+      "random_forest",
+      "xgboost"
+    ],
+    "type": "hybrid",
+    "method": "probability_average",
+    "threshold": 0.5
+  },
+  {
+    "id": "naive_bayes__logistic_regression__linear_svm__random_forest__xgboost",
+    "models": [
+      "naive_bayes",
+      "logistic_regression",
+      "linear_svm",
+      "random_forest",
+      "xgboost"
+    ],
+    "type": "hybrid",
+    "method": "probability_average",
+    "threshold": 0.5
+  }
+]

@@ -1,0 +1,3 @@
+model,legitimate_marked_spam,spam_missed,total_errors
+Linear SVM,9,9,18
+Linear SVM + XGBoost,5,12,17

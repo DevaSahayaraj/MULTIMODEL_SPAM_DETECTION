@@ -1,0 +1,29 @@
+audit_id,email_id,part_index,content_type,disposition,declared_charset,used_encoding,transfer_encoding,decoded_characters,replacement_characters,defects,preview_file
+001,easy_ham/00834.a73f96c83f5f638954df85ede58a3709,0,text/plain,,iso-8859-1,iso-8859-1,7bit,89,0,[],001/part_00.txt
+002,easy_ham_2/01390.e377b9fcbb54f20570b42b5b37801dd8,0,text/plain,,us-ascii,us-ascii,7bit,2069,0,[],002/part_00.txt
+003,easy_ham_2/00577.1eda2cf255a8628824556504e064df4d,0,text/plain,,us-ascii,us-ascii,7bit,942,0,[],003/part_00.txt
+004,hard_ham/00152.651a40f1c0b2ba19122eccebccbae788,0,text/plain,,iso-8859-1,iso-8859-1,7bit,2240,0,[],004/part_00.txt
+005,hard_ham/00218.c8c8534c14d8e1b43c43a7565a16f28a,0,text/plain,inline,,utf-8,binary,2884,0,[],005/part_00.txt
+006,hard_ham/00169.251360b0bc97db8a080cc122ce0428fe,1,text/plain,,iso-8859-1,iso-8859-1,quoted-printable,306,0,[],006/part_01.txt
+006,hard_ham/00169.251360b0bc97db8a080cc122ce0428fe,2,text/html,,iso-8859-1,iso-8859-1,quoted-printable,8531,0,[],006/part_02.txt
+007,hard_ham/00234.12555461ce0bc373baab8daf9280d4ca,1,text/plain,,iso-8859-1,iso-8859-1,7bit,750,0,[],007/part_01.txt
+007,hard_ham/00234.12555461ce0bc373baab8daf9280d4ca,2,text/html,,iso-8859-1,iso-8859-1,quoted-printable,14262,0,[],007/part_02.txt
+008,hard_ham/00001.7c7d6921e671bbe18ebb5f893cd9bb35,0,text/plain,,us-ascii,us-ascii,,7050,0,[],008/part_00.txt
+009,hard_ham/00245.ad6a6e01bee8f1d84541fb127a86e31f,1,text/plain,,iso-8859-1,iso-8859-1,7bit,3726,0,[],009/part_01.txt
+009,hard_ham/00245.ad6a6e01bee8f1d84541fb127a86e31f,2,text/html,,iso-8859-1,iso-8859-1,quoted-printable,20030,0,[],009/part_02.txt
+010,spam/00237.9cee6fd8bdd653d21d92158e702adf50,1,text/html,,iso-8859-1,iso-8859-1,7bit,25903,0,[],010/part_01.txt
+011,spam/00289.61a681a72c71512f115ad65033acc7c9,0,text/plain,,us-ascii,us-ascii,8bit,647,0,[],011/part_00.txt
+012,spam/00263.13fc73e09ae15e0023bdb13d0a010f2d,0,text/plain,,,utf-8: replacement fallback,7bit,350,130,[],012/part_00.txt
+013,spam/00319.a99dff9c010e00ec182ed5701556d330,0,text/plain,,unknown-8bit,utf-8: replacement fallback,,17967,2,[],013/part_00.txt
+014,spam/00481.5c95b526e965fa325044123c4ce29c1f,0,text/plain,,,utf-8: replacement fallback,,126010,1083,[],014/part_00.txt
+015,spam/00126.e98e1ba87a38e0cceeb55f3b86dbd4dd,1,text/html,,iso-8859-1,iso-8859-1,quoted-printable,3112,0,[],015/part_01.txt
+015,spam/00126.e98e1ba87a38e0cceeb55f3b86dbd4dd,2,text/plain,inline,,utf-8,,359,0,[],015/part_02.txt
+016,spam_2/00775.f83fab6722ac0be1f4231f8fb3845007,0,text/plain,,iso-8859-1,iso-8859-1,,2385,0,[],016/part_00.txt
+017,spam_2/00566.9b3e6f0ed54a232fcf6533c75d5c218e,0,text/plain,,us-ascii,us-ascii,7bit,1342,0,[],017/part_00.txt
+018,spam_2/00226.bd5d6adde04612587537df13d7f81196,0,text/plain,,windows-1252,windows-1252,7bit,549,0,[],018/part_00.txt
+019,spam_2/01223.0321f73febcffd82fcf12b36cce2c6c9,0,text/plain,,us-ascii,us-ascii,7bit,1894,0,[],019/part_00.txt
+020,spam_2/00682.0160e510bf19faa60f78d415d4b9a3ee,1,text/html,,iso-8859-1,iso-8859-1,quoted-printable,2278,0,[],020/part_01.txt
+020,spam_2/00682.0160e510bf19faa60f78d415d4b9a3ee,2,text/plain,inline,,utf-8,,359,0,[],020/part_02.txt
+021,spam_2/00225.a4a58f288601a7e965b358c6e7c6741f,2,text/html,,big5,big5,base64,1167,0,[],021/part_02.txt
+022,spam_2/00145.b6788a48c1eace0b7c34ff7de32766f6,1,text/plain,,iso-8859-1,iso-8859-1,,11602,0,[],022/part_01.txt
+022,spam_2/00145.b6788a48c1eace0b7c34ff7de32766f6,2,text/html,,iso-8859-1,iso-8859-1,,17946,0,[],022/part_02.txt

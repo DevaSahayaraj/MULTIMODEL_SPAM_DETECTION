@@ -1,0 +1,13 @@
+{
+  "model": "linear_svm",
+  "threshold": 0.5,
+  "test_emails": 888,
+  "accuracy": 0.9887387387387387,
+  "precision": 0.978021978021978,
+  "recall": 0.985239852398524,
+  "f1": 0.9816176470588235,
+  "ham_marked_spam": 6,
+  "spam_missed": 4,
+  "true_ham": 611,
+  "true_spam": 267
+}
